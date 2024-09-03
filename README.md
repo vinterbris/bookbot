@@ -6,7 +6,7 @@ BookBot script.
 
 Setup:
 - create books folder
-- put txt file of a book with raw text [frankenstein for example](https://raw.githubusercontent.com/asweigart/codebreaker/master/frankenstein.txt)
+- put txt file of a book with raw text. [Frankenstein for example](https://raw.githubusercontent.com/asweigart/codebreaker/master/frankenstein.txt)
 - in main.py enter path to the book file in `path` variable
 
 Running:
