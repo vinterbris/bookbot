@@ -10,4 +10,4 @@ Setup:
 - in main.py enter path to the book file in `path` variable
 
 Running:
-- python3 main.py
+`python3 main.py`
