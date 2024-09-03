@@ -5,7 +5,7 @@
 3. Prints how many times each alpha character was found
 
 #### Setup:
-- create books folder
+- create `books/` folder
 - put txt file of a book with raw text. [Frankenstein for example](https://raw.githubusercontent.com/asweigart/codebreaker/master/frankenstein.txt)
 - in main.py enter path to the book file in `path` variable
 
